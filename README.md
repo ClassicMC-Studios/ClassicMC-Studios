@@ -2,6 +2,7 @@
 > I'm working on
 - <b>The last Leaf</b>
 - <b>eSharp</b>
+- <b>Paper Js projects</b>
 >> My stats if you care
 <!--
 **ClassicMC-Studios/ClassicMC-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
