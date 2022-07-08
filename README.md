@@ -1,8 +1,7 @@
 ### Hello
 > I'm working on
 - <b>The last Leaf</b>
-- <b>eSharp</b>
-- <b>Paper Js projects</b>
+- <b>Snowed Out</b>
 > My website **[ClassicMC's Studio](https://classicmc-studios.github.io/)**
 >> My stats if you care
 <!--
