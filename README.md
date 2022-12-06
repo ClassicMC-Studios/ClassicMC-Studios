@@ -16,3 +16,5 @@
   info();
                
 ```
+
+![](https://github-readme-stats.vercel.app/api?username=classicmc-studios&&show_icons=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=classicmc-studios&layout=compact&theme=light&langs_count=10)
