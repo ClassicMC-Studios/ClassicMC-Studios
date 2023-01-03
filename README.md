@@ -1,18 +1,14 @@
 ```js
   console.log('Hello World!');
-  //Motto = "Scheme Different"
+  //Motto = "The one thing I know is that I know nothing."
   
-  let workingOn = {React_Stuff:"Things I make at random",
-               Python_Parsers:"Rpgs in the terminal",
-               MossJs:"A brand new game engine for javascript!"}
+  let workingOn = {GuyotJS:"An emulator that isn't banned by most schools.",
+                    MossJs:"I added cookie support",
+                    TuskyTimeSvelte:"Updated calendar selector"}
                
-  website = "https://classicmc-studios.github.io/";
+  website = "https://guyotjs.github.io";
   
- function info(){
-    alert('Info');
-    let kisou = false;
-    return kisou;
-  }
-  info();
-               
+  function info(){
+    return "Guyot v0.9 cancelled transition to GuyotBeta";
+  }alert(info());      
 ```
