@@ -1,14 +1,16 @@
+<h1 align="center">Weston</h1>
+<h4 align="center">A kind of copmetent web dev.</h4>
+<p align="center"><img align="center" src="https://metrics.lecoq.io/classicmc-studios" alt="UserStasts"/></p>
+<h1>Projects</h1>
+
 ```js
-  console.log('Hello World!');
-  //Motto = "The one thing I know is that I know nothing."
-  
-  let workingOn = {GuyotJS:"An emulator that isn't banned by most schools.",
-                    MossJs:"I added cookie support",
-                    TuskyTimeSvelte:"Updated calendar selector"}
-               
-  website = "https://guyotjs.github.io";
-  
-  function info(){
-    return "Guyot v0.9 cancelled transition to GuyotBeta";
-  }alert(info());      
+GuyotJs
+```
+
+```js
+MossJs
+````
+
+```js
+Rock Simulator 2023 
 ```
