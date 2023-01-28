@@ -1,16 +1,5 @@
 <h1 align="center">Weston</h1>
-<h4 align="center">A kind of competent web dev.</h4>
-<p align="center"><img align="center" src="https://metrics.lecoq.io/classicmc-studios" alt="UserStasts"/></p>
-<h1>Projects</h1>
+<h6 align="center">A kind of competent game dev</h6>
+<img src="https://classicmc-studios.github.io/guyot/duck.png"/>
 
-```js
-GuyotJs
-```
-
-```js
-MossJs
-````
-
-```js
-Rock Simulator 2023 
-```
+<p align="center"> Working on <b>JSnes</b> </p>
