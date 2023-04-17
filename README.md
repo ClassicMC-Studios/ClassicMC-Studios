@@ -3,12 +3,16 @@
 <p align="left">
   &emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://classicmc-studios.github.io/guyot/duck.png" width="100" height="100"/>
 </p>
-<h2>Projects</h2>
+<h2>My most fleshed out projects</h2>
 
-> <b>GuyotJS<br/></b>
-> A Final Phone Call<br/>
-> <b>MossJS<br/></b>
-> Better Colors.css<br/>
-> <b>JSnes</b><br/>
-> Mgkk'Sprek<br/>
-> <b>Kuosoian</b>
+<h4>GuyotJS</h4>
+- An emulator designed for use with chromebooks
+
+<h4>MossJS</h4>
+- A compact javascript game engine
+
+<h4>JSnes</h4>
+- A terrible way to make Js games modeled after the nes
+
+<h4>PlutoCSS</h4>
+- A minimalist frontend design platform meant to go along with w3.css
