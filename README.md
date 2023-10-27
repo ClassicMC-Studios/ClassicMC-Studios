@@ -6,7 +6,7 @@
 <h2>My most fleshed out projects</h2>
 
 <h4>GuyotJS</h4>
-- An emulator designed for use with chromebooks
+- A suite of useful little projects
 
 <h4>MossJS</h4>
 - A compact javascript game engine
@@ -14,5 +14,5 @@
 <h4>JSnes</h4>
 - A terrible way to make Js games modeled after the nes
 
-<h4>PlutoCSS</h4>
+<h4>BetterColors.css</h4>
 - A minimalist frontend design platform meant to go along with w3.css
