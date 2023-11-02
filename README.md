@@ -11,8 +11,8 @@
 <h4>MossJS</h4>
 - A compact javascript game engine
 
-<h4>JSnes</h4>
-- A terrible way to make Js games modeled after the nes
+<h4>Snowy</h4>
+- A static website programming language that compiles into HTML
 
 <h4>BetterColors.css</h4>
 - A minimalist frontend design platform meant to go along with w3.css
