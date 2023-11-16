@@ -4,3 +4,7 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://classicmc-studios.github.io/guyot/duck.png" width="100" height="100"/>
 </p>
 
+<p align="right">
+  <a>GuyotJs</a> / <a>Jhtml</a><br/>
+  <a>BetterColors</a> / <a>MossJS</a>
+</p>
