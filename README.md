@@ -5,6 +5,6 @@
 </p>
 
 <p align="right">
-  <a>GuyotJs</a> / <a>Jhtml</a><br/>
-  <a>BetterColors</a> / <a>MossJS</a>
+  <a href="#dsus">GuyotJs</a> / <a href="#dsus">Jhtml</a><br/>
+  <a href="#dsus">BetterColors</a> / <a href="#dsus">MossJS</a>
 </p>
