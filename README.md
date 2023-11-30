@@ -5,6 +5,6 @@
 </p>
 
 <p align="right">
-  <a href="#dsus">GuyotJs</a> / <a href="#dsus">Jhtml</a><br/>
+  <a href="#dsus">GuyotJs</a> / <a href="#dsus">FjallJS</a><br/>
   <a href="#dsus">BetterColors</a> / <a href="#dsus">Sno</a>
 </p>
