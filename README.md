@@ -1,10 +1,13 @@
-<h1 align="center">Weston</h1>
-<h6 align="center">A kind of competent web dev, theologian, and linguist</h6>
-<p align="left">
-  &emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://guyotjs.github.io/duckclear.png" width="180" />
-</p>
+# Weston 
 
-<p align="right">
-  <a href="#dsus">GuyotJs</a> / <a href="#dsus">snojs</a><br/>
-  <a href="#dsus">BetterColors</a> / <a href="#dsus">snowyMD</a>
-</p>
+> A kind of competent web dev, theologian, and linguist
+
+### What have I done?
+
+[The Guyot Project](https://github.com/guyotJs/) -> A content dense Retro Emulator
+
+[SnoJS](https://snojs.github.io/) -> A lightweight JS framework
+
+[SnowyMD](https://github.com/snojs/SnowyMD) -> A HTML Preprocessor designed to be an *Empowered Markdown*
+
+[Polycarp](https://github.com/guyotJs/Polycarp) -> A Bible app style collection of church father epistles *WIP*
