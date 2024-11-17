@@ -1,13 +1,6 @@
 # Weston 
 
-> A kind of competent web dev, theologian, and linguist
+> “Every word of God is flawless; he is a shield to those who take refuge in him."
 
-### What have I done?
-
-[The Guyot Project](https://github.com/guyotJs/) -> A content dense Retro Emulator
-
-[SnoJS](https://snojs.github.io/) -> A lightweight JS framework
-
-[SnowyMD](https://github.com/snojs/SnowyMD) -> A HTML Preprocessor designed to be an *Empowered Markdown*
-
-[Polycarp](https://github.com/guyotJs/Polycarp) -> A Bible app style collection of church father epistles *WIP*
+More about me [Here](https://classicmc-studios.github.io/Westonism/snowstorm/).<br/>
+Contact me at <u>weston@guyotjs.org</u>.
